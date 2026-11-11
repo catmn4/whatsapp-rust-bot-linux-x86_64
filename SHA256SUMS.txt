@@ -1,1 +1,1 @@
-b8b5f6c39dc4bff959ca6990216d8e6be79efa296aa9115b958a923f55e1b934  whatsapp-rust-bot-linux-x86_64.zip
+b5734e81f6b5b576611cd04a7effb758739e8292ab7d4e719021768feb184075  whatsapp-rust-bot-linux-x86_64.zip
